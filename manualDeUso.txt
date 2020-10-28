@@ -1,0 +1,3 @@
+Para poder correr estos códigos se necesita instalar las librerías de Matplotlib,
+pandas, seaborn y numpy. Se puede correr en Jupyter, celda por celda.  El código muestra diferentes
+aspectos de un dataset de tweets acerca del Coronavirus. 
